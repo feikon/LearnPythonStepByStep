@@ -30,3 +30,12 @@ print(a, type(a))
 b = int(a)
 print(b, type(b))
 ```
+
+## 3. 变量命名
+
+```Python
+# Part3 变量 命名
+myDesk = 'lantingjixu'            # 小驼峰 第一个单词首字母小写，后面其他单词首字母大写。
+MyDeskTop = 'Mac Air Pro'         # 大驼峰(帕斯卡) 每个单词的第一个字母都大写
+my_beautiful_keyboard = 'cherry'  # 下划线命名，不推荐
+```

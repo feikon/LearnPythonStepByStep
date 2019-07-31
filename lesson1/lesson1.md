@@ -22,3 +22,11 @@ print(type(answer1), type(answer2), type(answer3),
 ```
 
 ## 2. 变量数据类型转换
+
+```Python
+# Part1 变量类型转换
+a = '9'
+print(a, type(a))
+b = int(a)
+print(b, type(b))
+```

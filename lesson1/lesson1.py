@@ -16,3 +16,8 @@ print(type(answer1), type(answer2), type(answer3),
 
 """
 
+# Part1 变量类型转换
+a = '9'
+print(a, type(a))
+b = int(a)
+print(b, type(b))

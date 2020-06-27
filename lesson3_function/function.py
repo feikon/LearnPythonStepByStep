@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-'''
 # Created on 八月-02-19 22:10
 # function.py
 # @author: crossfirestater@gmail.com
